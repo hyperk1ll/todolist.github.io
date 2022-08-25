@@ -1,3 +1,7 @@
+// Faturrahman Alharitzoe   24060120140138
+// Muhammad Hilmy Tsany     24060120140171
+// Sadira Taruna Calvindoro 24060120140156
+
 let input = document.querySelector('.entered-list');
 let addButton = document.querySelector('.add-list');
 let task = document.querySelector('.task');
